@@ -1,0 +1,55 @@
+@font-face {
+    font-family: AppBody;
+    src: url(../font/oswald/Oswald-Regular.ttf);
+
+
+}
+.badge{
+    margin-right: 6px;
+}
+@font-face {
+    font-family: AppHeader;
+    src: url(../font/oswald/Oswald-Regular.ttf);
+
+}
+@font-face {
+    font-family:head;
+    src: url(../font/oswald/Oswald-HeavyItalic.ttf);
+
+}
+body,h1,h2,h3,h4,h5,.btn,.footer{
+    font-family: AppBody, serif;
+    font-weight: revert;
+
+}
+.font-app{
+    font-size: 3vh;
+}
+
+input[type='text'].form-control{
+    padding-left: 10px;
+}
+*{
+    box-sizing: border-box;
+}
+
+
+.navbar{
+    font-family: AppHeader, sans-serif;
+}
+
+input[type="text"],input[type="password"],input[type="email"]{
+    padding: 24px 0;
+
+}
+.card-title{
+    margin-bottom: 0;
+}
+.font-app{
+    font-family: AppHeader;!important;
+}
+
+
+.card-body p{
+    margin-bottom: 0;
+}
