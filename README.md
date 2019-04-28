@@ -1,4 +1,4 @@
-# gestion_ordinateur
+# gestion_ordinateurs
 
 :thumbsup:
 ```
